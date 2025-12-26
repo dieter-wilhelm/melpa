@@ -1,0 +1,5 @@
+(apdl
+:fetcher github
+:repo "dieter-wilhelm/apdl"
+;; :files (:defaults "matlib" "template")
+)
